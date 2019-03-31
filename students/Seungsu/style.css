@@ -1,0 +1,39 @@
+body{
+    background:rgb(0,0,0);
+      color: rgb(255,255,255);
+  }
+  
+  h1, h2, h3, table {
+    
+    color: #6600ff;
+  }
+  form{
+    color:#60f;
+  }
+  
+  body{
+    font-family: "Srisakdi", Impact, fantasy;
+    text-transform: capitalize;
+    font-weight: 100;
+    font-size: 1rem;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  p {
+    line-hight: 1.5;
+    letter-spacing: 10px;
+    world-spacing:5px;
+    text-align: center;
+    text-indent: 50px;
+  }
+  p:first-line{
+    text-transform: uppercase:
+  }
+  p:first-letter{
+    color:red;
+    font-size:30px;
+  }
+  a:visited{
+    color:green;
+  }
+  
